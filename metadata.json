@@ -1,8 +1,6 @@
 {
     "id": "gray_et_al2009",
-    "title": null,
-    "description": null,
-    "license": null,
+    "license": "https://creativecommons.org/licenses/by/2.0/",
     "url": "http://dx.doi.org/10.1126/science.1166858",
     "citation": "Gray RD, Drummond AJ, & Greenhill SJ 2009. Language phylogenies reveal expansion pulses and pauses in Pacific settlement. Science, 323(5913), 479-483.",
     "name": "Austronesian (Gray et al. 2009)",

@@ -7,19 +7,27 @@
     ],
     "dc:bibliographicCitation": "Gray RD, Drummond AJ, & Greenhill SJ 2009. Language phylogenies reveal expansion pulses and pauses in Pacific settlement. Science, 323(5913), 479-483.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
-    "dc:hasPart": {
-        "dc:relation": "data.nex",
-        "dc:description": "The data underlying the analysis which created the phylogeny",
-        "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
-    },
-    "dc:identifier": "http://dx.doi.org/10.1126/science.1166858",
+    "dc:identifier": "https://doi.org/10.1126/science.1166858",
+    "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-gray_et_al2009",
+    "dc:subject": {
+        "family": "Austronesian [aust1307]",
+        "analysis": "bayesian",
+        "scaling": "years (rescaled from millennia)"
+    },
+    "dc:title": "Phlorest phylogeny derived from Gray et al. 2009 'Austronesian (Gray et al. 2009)'",
+    "dcat:accessURL": "https://github.com/phlorest/gray_et_al2009",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-gray_et_al2009",
+            "rdf:about": "data.nex",
             "rdf:type": "prov:Entity",
-            "dc:created": "1cb647d",
+            "dc:description": "The data underlying the analysis which created the phylogeny",
+            "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
+            "rdf:about": "https://github.com/phlorest/gray_et_al2009",
+            "rdf:type": "prov:Entity",
+            "dc:created": "c3ccf24",
             "dc:title": "Repository"
         },
         {
@@ -32,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
