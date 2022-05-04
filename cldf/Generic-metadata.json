@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/gray_et_al2009",
             "rdf:type": "prov:Entity",
-            "dc:created": "552fd9e",
+            "dc:created": "89c7d2f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],

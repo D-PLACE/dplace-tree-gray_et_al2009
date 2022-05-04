@@ -15,15 +15,10 @@ class Dataset(phlorest.Dataset):
             self.metadata,
             args.log)
         
-        posterior = self.sample(
-            self.remove_burnin(
-                self.raw_dir.read('a400-m1pcv-time.trees.gz'), 1000),
-            detranslate=True,
-            as_nexus=True)
-        args.writer.add_posterior(
-            posterior.trees.trees, 
-            self.metadata, 
-            args.log)
+        posterior = self.raw_dir.read_trees(
+            'a400-m1pcv-time.trees.gz',
+            burnin=1000, sample=1000, detranslate=True)
+        args.writer.add_posterior(posterior, self.metadata, args.log)
         
         args.writer.add_data(
             self.raw_dir.read_nexus('a400.nex'),
