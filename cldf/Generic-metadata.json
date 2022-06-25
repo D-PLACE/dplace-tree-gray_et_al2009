@@ -11,7 +11,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Austronesian [aust1307]",
+        "family": "Austronesian",
         "analysis": "bayesian",
         "scaling": "millennia"
     },
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/gray_et_al2009",
             "rdf:type": "prov:Entity",
-            "dc:created": "89c7d2f",
+            "dc:created": "fbafaca",
             "dc:title": "Repository"
         },
         {
