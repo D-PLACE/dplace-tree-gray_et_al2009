@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Gray et al. 2009 'Austronesian (Gray et al. 2009)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,23 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Russell D. Gray,"
+        },
+        {
+            "name": "Alexei J. Drummond"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
