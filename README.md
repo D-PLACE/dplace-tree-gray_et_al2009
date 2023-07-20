@@ -1,4 +1,6 @@
-# Dataset gray_et_al2009
+# Phlorest phylogeny derived from Gray et al. 2009 'Austronesian (Gray et al. 2009)'
+
+[![CLDF validation](https://github.com/phlorest/gray_et_al2009/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/gray_et_al2009/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1126/science.1166858
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1126/science.1166858
 
 
 ## CLDF Datasets
