@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Gray et al. 2009 'Austronesian (Gray et al. 2009)'
+# Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'
 
 [![CLDF validation](https://github.com/phlorest/gray_et_al2009/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/gray_et_al2009/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Austronesian language family computed from a bayesian analysis scaled by millennia.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1126/science.1166858
+Source available online at https://doi.org/10.1126/science.1166858
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/gray_et_al2009/main/summary_tree.svg)
