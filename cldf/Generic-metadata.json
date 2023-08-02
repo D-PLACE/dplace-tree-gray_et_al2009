@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "millennia"
     },
-    "dc:title": "Phlorest phylogeny derived from Gray et al. 2009 'Austronesian (Gray et al. 2009)'",
+    "dc:title": "Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'",
     "dcat:accessURL": "https://github.com/phlorest/gray_et_al2009",
     "prov:wasDerivedFrom": [
         {
@@ -27,7 +27,7 @@
         {
             "rdf:about": "https://github.com/phlorest/gray_et_al2009",
             "rdf:type": "prov:Entity",
-            "dc:created": "17a65f5",
+            "dc:created": "5a471eb",
             "dc:title": "Repository"
         },
         {
