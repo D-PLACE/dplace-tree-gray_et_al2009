@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Gray et al. 2009 'Language phylogenies reveal expansion pulses and pauses in Pacific settlement'
 
 [![CLDF validation](https://github.com/phlorest/gray_et_al2009/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/gray_et_al2009/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250067.svg)](https://doi.org/10.5281/zenodo.8250067)
 
 ## How to cite
 
