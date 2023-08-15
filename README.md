@@ -14,7 +14,7 @@ If you use these data please cite
 A [Phlorest phylogeny](https://github.com/phlorest) of the Austronesian language family computed from a bayesian analysis scaled by millennia.
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
 
 Source available online at https://doi.org/10.1126/science.1166858
 
